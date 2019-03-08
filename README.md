@@ -14,7 +14,7 @@ Scripts will work with 1080p resolution, both full-screen and windowed
 
 #### Salvage
 
-* Enter the 'salvage' menu and run the script "salvage.shk".
+* Enter the 'salvage' menu and run the script "salvage.ahk".
 * Then, click ctrl-s to load the top two rows except bottom right item into the salvage fields.
 * After items are loaded, salvage buttom is clicked.
 * Interrupt that with 's' click.
